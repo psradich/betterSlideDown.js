@@ -1,0 +1,35 @@
+{
+"name": "betterSlideDown",
+"title": "jQuery Better Slide Down",
+"description": "jQuery plugin That adds a Better Slide Down / Slide Up Function.",
+"keywords": [
+"slide",
+"slideDown",
+"slideUp"
+],
+"version": "0.1.0",
+"author": {
+"name": "Paul Radich",
+"url": "https://github.com/psradich/betterSlideDown.js/blob/master/AUTHORS.txt"
+},
+"maintainers": [
+{
+"name": "Paul Radich",
+"email": "psradich@gmail.com",
+"url": "https://github.com/psradich/"
+}
+],
+"licenses": [
+{
+"type": "FREE",
+"url": "https://github.com/psradich/betterSlideDown.js/blob/master/LICENSE.txt"
+}
+],
+"bugs": "https://github.com/psradich/betterSlideDown.js/issues",
+"homepage": "https://github.com/psradich/betterSlideDown.js",
+"docs": "https://github.com/psradich/betterSlideDown.js",
+"download": "https://github.com/psradich/betterSlideDown.js",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
