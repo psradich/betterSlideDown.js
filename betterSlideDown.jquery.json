@@ -28,7 +28,7 @@
 "bugs": "https://github.com/psradich/betterSlideDown.js/issues",
 "homepage": "https://github.com/psradich/betterSlideDown.js",
 "docs": "https://github.com/psradich/betterSlideDown.js",
-"download": "https://github.com/psradich/betterSlideDown.js",
+"download": "https://github.com/psradich/betterSlideDown.js/archive/master.zip",
 "dependencies": {
 "jquery": ">=1.5"
 }
